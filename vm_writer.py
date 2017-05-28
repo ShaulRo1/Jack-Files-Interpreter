@@ -1,7 +1,5 @@
 ##############################################################################
 # FILE : vm_writer.py                                                        #
-# WRITER : Roi_Shaag , roi351 , 20405691                                     #
-#          Robinov Shaul, shaul_ro, 309673184                                #
 # EXERCISE : nand2tetris project10 2016-2017                                 #
 # DESCRIPTION : A program that contains a class definition of VmWriter,      #
 #               that represents a module that encapsulates the VM command    #
