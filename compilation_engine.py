@@ -3,8 +3,6 @@ from symbol_table import *
 from vm_writer import *
 ##################################################
 # FILE : compilation_engine.py                   #
-# WRITERS : Robinov Shaul, shaul_ro, 309673184   #
-#           Roi Shaag, roi351, 204056915         #
 # EXERCISE : Nand2Tetris ex10 2016-2017          #
 # DESCRIPTION : Jack programs compiler           #
 ##################################################
