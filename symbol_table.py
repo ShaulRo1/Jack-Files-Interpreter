@@ -1,7 +1,5 @@
 ##############################################################################
 # FILE : symbol_table.py                                                     #
-# WRITER : Roi_Shaag , roi351 , 20405691                                     #
-#          Robinov Shaul, shaul_ro, 309673184                                #
 # EXERCISE : nand2tetris project11 2016-2017                                 #
 # DESCRIPTION : A program that contains a class definition of SymbolTable    #
 #               that associates the identifier names found in the program    #
