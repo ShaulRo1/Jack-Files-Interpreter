@@ -4,8 +4,6 @@ from compilation_engine import *
 
 ##############################################################################
 # FILE : jack_compiler.py                                                    #
-# WRITERS : roi_shaag , roi351 , 20405691                                    #
-#           Robinov Shaul, shaul_ro, 309673184                               #
 # EXERCISE : nand2tetris project10 2016-2017                                 #
 # DESCRIPTION : A program that analyzing jack programs, parse them and       #
 #               understands their structure. convert them to XML tree        #
