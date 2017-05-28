@@ -1,0 +1,33 @@
+                           Project 11 - Compiler II - Code Generating
+                           ----------------------------------------
+  
+
+Project Description:
+---------------------
+In this project we Built the second part of the compiler for the Jack
+language.   
+We specify a Jack compiler, designed to translate a collection of Jack
+classes into VM code
+ 
+Submitted Files
+---------------
+README - This file.
+
+jack_compiler.py - This file recieves a jack file or folder containing
+jack files and converts each of the files to VM code file.
+
+jack_tokenizer.py - The tokenizer engine used by the compilation engine to
+parse and convert the jack file. 
+
+compilation_engine.py - used by the jack_compiler to read each of the
+code files, parse them and write matching VM code files.
+
+symbol_table.py - associates the identifier names with identifier properties
+
+vm_writer.py - encapsulating the VM command syntax.
+			   
+Makefile, JackCompiler - files made for proper execution of
+jack_compiler.py script.
+		   
+Remarks
+-------
